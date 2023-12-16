@@ -22,12 +22,7 @@ Before running the script, ensure you have the following:
 
 ## Installation
 
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/michaelkhany/SimpleMLModels.git
-cd your-repo-name
-```
+Make sure to install latest version of TensorFlow and Keras.
 
 ## Usage
 Run the script using a Python interpreter:
